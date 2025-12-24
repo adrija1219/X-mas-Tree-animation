@@ -31,3 +31,7 @@ The project features a **3D rotating Christmas tree**, glowing ornaments, a shin
 1. Clone the repository:
    ```bash
    git clone https://github.com/adrija1219/X-mas-Tree-animation.git
+
+##📸 Preview
+
+A rotating Christmas tree with colorful lights, glowing star, falling snow, and festive greeting.
